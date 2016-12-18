@@ -1,1 +1,1 @@
-empty readme
+Instructions for configuring OpenCV with Android Studio, just getting started with this, I may do a full tutorial on this eventually.
